@@ -51,7 +51,7 @@ Government of the Republic of Cyprus through the Cyprus
 Deputy Ministry of Research, Innovation and Digital Policy.
 
 ## Author
-Andreas Anastasiou - @aanast01
+[Andreas Anastasiou](github.com/aanast01)
 
 ## Contact
 For any questions or feedback, please contact me via email: aanast01@ucy.ac.cy
