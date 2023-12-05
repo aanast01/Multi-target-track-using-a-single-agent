@@ -39,7 +39,7 @@ Future work on this project could include:
  - Incorporating multiple agents in the simulation.
 
 ## Citation
-A publication for this work is currently under review
+[A. Anastasiou, S. Papaioannou, P. Kolios and C. G. Panayiotou, "Model Predictive Control For Multiple Castaway Tracking with an Autonomous Aerial Agent," 2023 European Control Conference (ECC), Bucharest, Romania, 2023, pp. 1-8, doi: 10.23919/ECC57647.2023.10178187.](https://ieeexplore.ieee.org/document/10178187)
 
 ## Acknowledgements
 This work is funded by the Cyprus Research and
