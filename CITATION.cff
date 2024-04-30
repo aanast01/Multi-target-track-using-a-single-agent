@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Anastasiou"
+  given-names: "Andreas"
+  orcid: "https://orcid.org/0000-0003-2899-8522"
+title: "Multi-target track and follow using a single UAV agent"
+version: 1.0.0
+date-released: 2023-12-05
+url: "https://github.com/aanast01/Multi-target-track-and-follow-using-a-single-agent"
