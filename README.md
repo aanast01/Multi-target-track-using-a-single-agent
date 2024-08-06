@@ -1,4 +1,4 @@
-# Multi-Castaway Tracking and Following using an Autonomous Agent
+# Multi-Castaway Tracking using an Autonomous Agent
 ### This repository contains MATLAB code for implementing a multi-target tracking and following system using a single agent and optimization via the Gurobi solver. The goal of the system is to have the agent follow all targets while maintaining the lowest uncertainty of each target's location
 
 ## Getting Started
